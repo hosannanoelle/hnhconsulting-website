@@ -212,12 +212,20 @@ button:focus-visible {
 }
 
 .logo {
-  font-family: var(--font-body);
-  font-weight: 700;
-  font-size: 1.35rem;
-  letter-spacing: 0.42em;
-  color: var(--navy);
-  padding-left: 0.2em;
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.logo img {
+  display: block;
+  height: 110px;
+  width: auto;
+}
+
+/* Footer logo */
+.footer-brand .logo img {
+  height: 76px;
 }
 
 .nav-links {
