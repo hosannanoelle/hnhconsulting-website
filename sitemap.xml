@@ -20,4 +20,8 @@
     <loc>https://www.hosannanoelle.com/contact.html</loc>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://www.hosannanoelle.com/blog-ai-operating-system.html</loc>
+    <priority>0.7</priority>
+  </url>
 </urlset>
